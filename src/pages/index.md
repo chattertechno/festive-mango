@@ -5,9 +5,8 @@ sections:
     type: section_hero
     image: images/Untitled-1.jpg
     title: Order Your Cake With Jeph Cakes
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      Order Fast and Fresh naturally made Cake from home
     actions:
       - label: Learn More
         url: /features
