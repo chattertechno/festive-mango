@@ -8,7 +8,7 @@ sections:
     content: |
       Order Fast and Fresh naturally made Cake from home
     actions:
-      - label: Learn More
+      - label: Download App
         url: /features
   - section_id: features
     type: section_features
