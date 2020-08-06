@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Untitled-1.jpg
     title: Order Your Cake With Jeph Cakes
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
